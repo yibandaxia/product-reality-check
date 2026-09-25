@@ -1,4 +1,12 @@
-# Product Reality Check
+<div align="center">
+<h1>Product Reality Check · 需求鉴真</h1>
+ </div>  
+<div align="center"><a href="README.md">English</a> ·
+    <a href="README.zh-CN.md">简体中文</a>
+</div>
+
+<div align="center"> <img width="200" height="200" alt="product-reality-check" src="https://github.com/user-attachments/assets/eaadd4e5-b7ab-41c1-9e5e-a8ef7f3ae4fc" />
+</div>
 
 > A skeptical product-manager skill for turning vague ideas into testable product hypotheses.
 
